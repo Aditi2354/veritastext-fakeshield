@@ -1,8 +1,8 @@
 # VeritasText — FakeShield 🛡️📰
 *A compact, portfolio-ready NLP project that detects **Fake vs Real** news using TF-IDF + Naive Bayes, with saved artifacts, CLI prediction, a Streamlit demo, confusion matrix, and k-fold cross-validation.*
 
-![Demo Confusion Matrix (mini dataset)](docs/cm_mini.png)
-![Confusion Matrix (imbalanced run)](docs/cm_imbalanced.png)
+![Demo Confusion Matrix (mini dataset)](mini.png)
+![Confusion Matrix (imbalanced run)](imbalanced.png)
 
 ---
 
